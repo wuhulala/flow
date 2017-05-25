@@ -2,7 +2,7 @@
 
 >一款手动绘制的cavans流程图 支持横竖线以及文本框
 
-
+[demo](https://wuhulala.github.io/flow/)
 ```javascript 1.5
 var defaultStyle = new Style("#66CC66", "#339933", "#ffffff");
     var activeStyle = new Style("#999966", "#CC9966", "#ffffff");
